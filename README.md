@@ -1,4 +1,4 @@
-## Olá, Eu sou o Felipe Rodrigues, seja bem-vindo ao meu perfil! 👋
+## Olá, Eu sou o Felipe Rodrigues. Seja bem-vindo ao meu perfil! 👋
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosFelipeDev&show_icons=true&theme=radical)
 
